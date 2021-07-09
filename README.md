@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello everyone out there 👋
+
+I am Henrik, a Software Development Nerd. 
+
+❤️ I am passionate about tech in general, but specifically distributed solutions/services
+
+⚙️ I both like [dotnet](http://dot.net/) and [golang](https://golang.org/)
+
+🏁 I will almost always go for CLIs instead of GUIs
+
+🌱 Currently I am trying to find my way around the [k8s](https://kubernetes.io/) ecosystem
+
 
 <!--
 **bihe/bihe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
