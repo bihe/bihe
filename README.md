@@ -6,9 +6,11 @@ I am Henrik, a Software Development Nerd.
 
 ⚙️ I both like [dotnet](http://dot.net/) and [golang](https://golang.org/)
 
-🏁 I will almost always go for CLIs instead of GUIs
+🏁 I will almost always go for CLIs instead of GUIs -> OS agnostic Linux/Mac/Win
 
-🌱 Currently I am trying to find my way around the [k8s](https://kubernetes.io/) ecosystem
+📫 How to reach me: **Mastodon** <a rel="me" href="https://fosstodon.org/@henrikb">fosstodon.org/@henrikb</a>
+
+😄 Pronouns: he/him
 
 
 <!--
