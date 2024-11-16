@@ -8,7 +8,9 @@ I am Henrik, a Software Development Nerd.
 
 🏁 I will almost always go for CLIs instead of GUIs -> OS agnostic Linux/Mac/Win
 
-📫 How to reach me: **Mastodon** <a rel="me" href="https://fosstodon.org/@henrikb">fosstodon.org/@henrikb</a>
+📫 How to reach me: 
+- **Bluesky** <a rel="me" href="https://bsky.app/profile/henrik.binggl.net">@henrik.binggl.net</a>
+- **Mastodon** <a rel="me" href="https://fosstodon.org/@henrikb">fosstodon.org/@henrikb</a>
 
 😄 Pronouns: he/him
 
